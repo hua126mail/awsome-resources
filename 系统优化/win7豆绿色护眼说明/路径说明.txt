@@ -1,0 +1,4 @@
+说明：把文件“shellstyle.dll”放到下面的路径覆盖即可，注意要重启才能看到效果
+C:\Windows\Resources\Themes\Aero\Shell\NormalColor
+
+那张图片是我至今为止找到最简洁的护眼壁纸，你可以试一下
